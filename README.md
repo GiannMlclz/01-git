@@ -32,4 +32,4 @@ git status
 ```sh
 git add <nombre-archivo>
 git add <nombre-archivo> <nombre-archivo> <nombre archivo>
-git add. # agrega todos los archivos
+git add. # agrega todos los archivos.
