@@ -33,3 +33,8 @@ git status
 git add <nombre-archivo>
 git add <nombre-archivo> <nombre-archivo> <nombre archivo>
 git add. # agrega todos los archivos.
+```
+# Persistimos los cambios agregados al área de confirmación en un commit
+
+```sh
+git commit -m "mensaje descriptivo de lo que tiene el commit"
