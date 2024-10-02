@@ -38,3 +38,9 @@ git add. # agrega todos los archivos.
 
 ```sh
 git commit -m "mensaje descriptivo de lo que tiene el commit"
+```
+
+# Corregir el mensaje del commit
+
+```sh
+git commit --amend -m "el mensaje corregido"
